@@ -23,9 +23,10 @@ Feel free to reach out to me at traxon.bg@gmail.com.
 
 I'm open to collaborating on app projects. If you have an interesting idea or project, let's connect and bring it to life!
 
-
+![image](https://github.com/RaxoTheOne/RaxoTheOne/assets/146965063/3f03a90b-3161-4efb-b4a0-6614d77df06e)
 
 <!---
 RaxoTheOne/RaxoTheOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
