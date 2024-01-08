@@ -27,6 +27,7 @@ I'm open to collaborating on app projects. If you have an interesting idea or pr
 
 
 Hobbies:
+
 🎮 Gaming
 
 👨‍👩‍👧‍👧 My Family
