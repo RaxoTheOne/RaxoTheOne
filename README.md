@@ -26,7 +26,7 @@ I'm open to collaborating on app projects. If you have an interesting idea or pr
 ![image](https://github.com/RaxoTheOne/RaxoTheOne/assets/146965063/3f03a90b-3161-4efb-b4a0-6614d77df06e)
 
 
-Hobbies:
+Hobby's:
 
 🎮 Gaming
 
