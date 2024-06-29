@@ -30,6 +30,8 @@ Hobby's:
 
 🎮 Gaming
 
+💻 Coding
+
 👨‍👩‍👧‍👧 My Family
 
 🎵 Listening to music
@@ -44,4 +46,3 @@ You can click the Preview link to take a look at your changes.
 
 ![github-snake](https://github.com/RaxoTheOne/RaxoTheOne/assets/146965063/45ef507e-7fba-4b27-8c2c-48f19223e5b3)
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
-   
